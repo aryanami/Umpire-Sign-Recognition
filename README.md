@@ -6,7 +6,7 @@ The primary objective of this project is to develop a Convolutional Neural Netwo
 ## Problem Statement
 Umpire sign recognition is a crucial component in developing human-computer interaction systems, especially for individuals cricket fans with speech or hearing impairments. The challenge lies in accurately detecting and classifying cricket signs from real-time video input, where variations in lighting, background, and hand positioning can affect the model's performance.
 
-## Data Set
+## Dataset
 The dataset for this project is generated using the `Create.ipynb` notebook, which captures images from a webcam. The images are pre-processed, including hand segmentation from the background, and saved for training the model. The dataset includes multiple hand sign classes, each represented by a set of images.
 
 ## Working of the Project
